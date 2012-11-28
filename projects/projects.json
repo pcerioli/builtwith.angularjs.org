@@ -534,6 +534,21 @@
         "CSS3","bootstrap-js",
         "Ruby on Rails","Ruby","Mover.io","Productivity"
       ]
+    },
+    {
+      "name": "NameOkay",  
+      "thumb": "nameokay/thumb.png", 
+      "desc": "Domain Name Generator", 
+      "url": "http://nameokay.com", 
+      "info": "http://myapp.com/blog", 
+      "submitter": "pcerioli", 
+      "submissionDate": "2012-11-28", 
+      "tags": [
+        "Production", 
+        "Productivity", 
+        "Twitter Bootstrap", "CSS3", "HTML5","Ruby","Rails",
+        "jQuery"
+      ]
     }
   ]
 }
